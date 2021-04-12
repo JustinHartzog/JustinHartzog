@@ -20,12 +20,12 @@
         },
         {
             "id":"2",
-            "project_name":"Blog",
-            "description": "Simple HTML, CSS, and JS project that demonstraits responsive design",
+            "project_name":"Crowdfund",
+            "description": "Crowdfunding project that demonstraits responsive design as well as radio inputs when selecting the different levels of funding",
             "technologies": ["JS", "CSS", "HTML"],
-            "live_link": "https://justinhartzog.github.io/Blog/",
-            "github_link": "https://github.com/JustinHartzog/Blog",
-            "image_urls": ["/static/images/pro7.0.jpg", "/static/images/pro7.1.jpg", "/static/images/pro7.2.jpg"]
+            "live_link": "https://justinhartzog.github.io/Crowdfund/",
+            "github_link": "https://github.com/JustinHartzog/Crowdfund",
+            "image_urls": ["/static/images/pro10.0.png", "/static/images/pro10.1.png", "/static/images/pro10.2.png"]
         },
         {
             "id":"3",
