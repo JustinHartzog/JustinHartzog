@@ -150,7 +150,20 @@ a:hover{
 }
 
 
+.profile {
+  display: inline-block;
+  max-width: 100%;
+  margin: 0 auto 1rem;
+  border: solid 4px #fefefe;
+  border-radius: 500px;
+  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  line-height: 0;
+}
 
+.center {
+  align-items: center;
+  margin: auto;
+}
 
 
 .main {
